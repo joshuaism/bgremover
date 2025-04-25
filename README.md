@@ -29,3 +29,11 @@ Run the app
 ```commandline
 python bgremover.py <path-to-input-image> <path-to-output-image>
 ```
+
+Run the webapp
+
+```commandline
+python web\manage.py runserver
+```
+
+Navigate to http://localhost:8000/ browse an image file and hit submit.
