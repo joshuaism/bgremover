@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-=&i8+sq@(*qt#%)m=7ebixd(*)c58_zrlbtvsqpf^2wzdt)b%d
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['localhost', '192.168.1.113', 'bgremover.hopto.org']
 
 
 # Application definition

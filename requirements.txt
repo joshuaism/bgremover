@@ -6,6 +6,7 @@ colorama==0.4.6
 coloredlogs==15.0.1
 Django==5.2
 flatbuffers==24.3.25
+gunicorn==23.0.0
 humanfriendly==10.0
 idna==3.10
 imageio==2.36.0
@@ -26,6 +27,7 @@ pooch==1.8.2
 protobuf==5.28.3
 PyMatting==1.1.12
 pyreadline3==3.5.4
+PyYAML==6.0.2
 referencing==0.35.1
 rembg==2.0.59
 requests==2.32.3
@@ -37,4 +39,7 @@ sympy==1.13.3
 tifffile==2024.9.20
 tqdm==4.67.0
 tzdata==2025.2
+ua-parser==1.0.1
+ua-parser-builtins==0.18.0.post1
 urllib3==2.2.3
+user-agents==2.2.0
